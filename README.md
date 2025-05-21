@@ -47,4 +47,15 @@ How long is your break (in minutes)? 5
 
 - MIT License
 
+## Future Features
+
+- Adjustable start/end times
+- Visual progress tracker 
+- Multi-person mode
+- Real-time 25-minute timer with countdown
+- Sound or desktop notification after each work/break period
+- Daily summary export to CSV or text file
+- Smart break suggestions based on productivity
+- GUI version using Tkinter or a web framework like Flask
+
 Made by Zaka Ahmed
