@@ -49,7 +49,7 @@ How long is your break (in minutes)? 5
 
 ## Future Features
 
-- Adjustable start/end times
+- [Adjustable start/end times](https://github.com/zakaahmed1/pomodoro-timer/issues/1)
 - Visual progress tracker 
 - Multi-person mode
 - Real-time 25-minute timer with countdown
